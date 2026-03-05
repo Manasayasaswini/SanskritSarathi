@@ -1,0 +1,44 @@
+{
+  "cli_version": "0.4.9",
+  "checkpoint_id": "2686090a96c8",
+  "strategy": "manual-commit",
+  "branch": "main",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "frontend/.gitignore",
+    "frontend/README.md",
+    "frontend/eslint.config.mjs",
+    "frontend/next.config.ts",
+    "frontend/package-lock.json",
+    "frontend/package.json",
+    "frontend/postcss.config.mjs",
+    "frontend/public/file.svg",
+    "frontend/public/globe.svg",
+    "frontend/public/next.svg",
+    "frontend/public/vercel.svg",
+    "frontend/public/window.svg",
+    "frontend/src/app/favicon.ico",
+    "frontend/src/app/globals.css",
+    "frontend/src/app/layout.tsx",
+    "frontend/src/app/page.tsx",
+    "frontend/src/components/VarnaMatrix.tsx",
+    "frontend/src/data/varnaData.ts",
+    "frontend/tsconfig.json"
+  ],
+  "sessions": [
+    {
+      "metadata": "/26/86090a96c8/0/metadata.json",
+      "transcript": "/26/86090a96c8/0/full.jsonl",
+      "context": "/26/86090a96c8/0/context.md",
+      "content_hash": "/26/86090a96c8/0/content_hash.txt",
+      "prompt": "/26/86090a96c8/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 18808,
+    "cache_creation_tokens": 48451,
+    "cache_read_tokens": 721028,
+    "output_tokens": 11216,
+    "api_call_count": 35
+  }
+}

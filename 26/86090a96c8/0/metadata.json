@@ -1,0 +1,48 @@
+{
+  "cli_version": "0.4.9",
+  "checkpoint_id": "2686090a96c8",
+  "session_id": "ses_342a5bd83ffeQYdS4fKzW9U8rZ",
+  "strategy": "manual-commit",
+  "created_at": "2026-03-05T09:54:30.50965729Z",
+  "branch": "main",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "frontend/.gitignore",
+    "frontend/README.md",
+    "frontend/eslint.config.mjs",
+    "frontend/next.config.ts",
+    "frontend/package-lock.json",
+    "frontend/package.json",
+    "frontend/postcss.config.mjs",
+    "frontend/public/file.svg",
+    "frontend/public/globe.svg",
+    "frontend/public/next.svg",
+    "frontend/public/vercel.svg",
+    "frontend/public/window.svg",
+    "frontend/src/app/favicon.ico",
+    "frontend/src/app/globals.css",
+    "frontend/src/app/layout.tsx",
+    "frontend/src/app/page.tsx",
+    "frontend/src/components/VarnaMatrix.tsx",
+    "frontend/src/data/varnaData.ts",
+    "frontend/tsconfig.json"
+  ],
+  "agent": "OpenCode",
+  "turn_id": "81be6cfe52bd",
+  "token_usage": {
+    "input_tokens": 18808,
+    "cache_creation_tokens": 48451,
+    "cache_read_tokens": 721028,
+    "output_tokens": 11216,
+    "api_call_count": 35
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-03-05T09:54:29.811640547Z",
+    "agent_lines": 7625,
+    "human_added": 0,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 7625,
+    "agent_percentage": 100
+  }
+}
